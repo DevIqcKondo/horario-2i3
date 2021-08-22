@@ -57,5 +57,12 @@ td{
      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
      font-size: 20px;
  }
+ a:link, a:visited, a:active {
+	text-decoration: underline;
+	}
+a:hover {
+	background: crimson;
+	color: darksalmon;
+}
 
  
